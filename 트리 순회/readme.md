@@ -1,6 +1,6 @@
 **URL: https://www.acmicpc.net/problem/1991**
 
-**Solution: **
+**Solution:**
 ```python
 tree = {} # Tree 집합
 
